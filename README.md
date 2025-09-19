@@ -1,4 +1,4 @@
-# Airways Review Dashboard
+# Airways Review Dashboard - Tableau
 
 ## Overview
 This Tableau project analyzes airline passenger reviews to uncover insights into customer experience.  
